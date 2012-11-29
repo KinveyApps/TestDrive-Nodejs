@@ -1,0 +1,7 @@
+{
+  "name": "TestDrive",
+  "version": "1.0.0",
+  "dependencies": {
+    "kinvey": "~0.9"
+  }
+}
