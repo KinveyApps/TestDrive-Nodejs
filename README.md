@@ -6,7 +6,7 @@ After downloading or cloning the repository:
 
 * Make sure you have installed [Node.js](http://nodejs.org) and [npm](https://npmjs.org).
 * Run `npm install`.
-* Replace `<your-app-key>` and `<your-app-secret>` (lines 4–5 in `index.js`) with your applications credentials.
+* Replace `App Key` and `App Secret` (`index.js`) with your applications credentials.
 * Run `node index.js`.
 
 ## Functionality
